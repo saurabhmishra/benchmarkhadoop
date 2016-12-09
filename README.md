@@ -96,8 +96,6 @@ Run sample queries using following in the sample queries folder:
 ```
 git clone https://github.com/hortonworks/hive-testbench
 
-cd hive-aws
-
 cd hive-testbench
 
 nohup ./tpcds-setup 2000 & 
