@@ -94,7 +94,7 @@ Run sample queries using following in the sample queries folder:
 
 ######Execute TPC-DS and TPC-H on 200GB ORC Sequentially########
 ```
-tar -xvf hive-aws.tar
+git clone https://github.com/hortonworks/hive-testbench
 
 cd hive-aws
 
