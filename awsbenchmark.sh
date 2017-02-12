@@ -3,7 +3,7 @@
 #set -x
 #set -v
 
-TESTS_TO_EXECUTE=("RandomWriter" "DFS-IO Write" "DFS-IO Read" "NNBench Write" "NNBench Read" "NNBench Rename" "NNBench Delete" )
+TESTS_TO_EXECUTE=("TeraGen" "TeraSort" "RandomWriter" "DFS-IO Write" "DFS-IO Read" "NNBench Write" "NNBench Read" "NNBench Rename" "NNBench Delete" "MRBench")
 #TESTS_TO_EXECUTE=("TeraGen" "TeraSort"  "DFS-IO Write" "DFS-IO Read" "NNBench Write" "NNBench Read" "MRBench")
 
 logTime(){
